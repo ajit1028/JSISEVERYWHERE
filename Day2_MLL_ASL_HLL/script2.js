@@ -1,5 +1,6 @@
 /*
 
+Microprocessor, MLL, Assembler, ASL, Compiler, HLL
  A computer basically have some harware componenets namely microprocessor, haad disk, ram ,gpu.
  Out of all these devices that is brain of coumpter because of which we can listing songs, moving mouse and all the operations are performed by micro processor.
  intel i3,i5,i7, m1,m2 chips are called microprocessor.

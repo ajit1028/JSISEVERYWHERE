@@ -1,4 +1,8 @@
 /*
+
+Basics of cliet-server and role of java script
+
+
 Host: Any device(usually a computer) connected to a network. It can send or receive data.Every device with an IP Address
 (like your phone,tab,computer is a host).
 
