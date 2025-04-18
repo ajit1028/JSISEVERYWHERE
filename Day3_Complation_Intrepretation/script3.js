@@ -34,6 +34,6 @@ console.log(2 * 2);
 
 /* in terminal after going that path  :JsIsEverywhere/Day3_Complation_Intrepretation (main)
     node script3.js 
-  javascript take above  code(HLL (line 29,30,31)) and then give it to the intrepreter.now intrepreter convert hll -> mll . now microprocessor   gives o/p "Hello".
+  javascript take above  code(HLL (line 31,32,33)) and then give it to the intrepreter.now intrepreter convert hll -> mll . now microprocessor   gives o/p "Hello".
    then again it goes to the intrepretor and after doing all process gives o/p 4.then again same 4.
  */
