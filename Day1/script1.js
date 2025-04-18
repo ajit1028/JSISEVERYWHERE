@@ -17,7 +17,7 @@ JavaScript is everywhere.
 Rendering is the process to show data on your UI that is coming as a responce from the server in the form of html and css.
 
 Client - Server Architecture:-> Let's understand these concept with the help of a simple example.Everyone here have 
-                                 use swiggy app. You type swiggy in your browser for ordering food. Then what happend 
+                                 used swiggy app. You type swiggy in your browser for ordering food. Then what happend 
                                  a request is send from your computer(client) to the swiggy server that is kept in other 
                                  place it receives the request and give html or css or html+css files as a resoponce
                                  for your request that render on your UI.
